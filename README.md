@@ -16,9 +16,7 @@ A current IT Specialist and aspiring Cloud Engineer. I'm currently earning my B.
 ---
 
 ### 🚀 Current Learning
-**Certifications:** Network+ and Security+ in Progress
-
-**Languages:** HarvardX's CS50x/p
+**Programming Courses:** HarvardX's CS50x/p
 
 **Side Projects:** 📦 VPS hosting, automation, and cloud projects on Ubuntu 24
 
